@@ -1,2 +1,2 @@
 # demo
-just a repo to learn git
+just a repo to learn git!
